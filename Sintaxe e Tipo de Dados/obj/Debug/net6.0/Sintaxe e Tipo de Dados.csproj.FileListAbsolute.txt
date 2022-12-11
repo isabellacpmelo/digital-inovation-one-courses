@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\bin\Debug\net6.0\Sintaxe e Tipo de Dados.exe
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\bin\Debug\net6.0\Sintaxe e Tipo de Dados.deps.json
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\bin\Debug\net6.0\Sintaxe e Tipo de Dados.runtimeconfig.json
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\bin\Debug\net6.0\Sintaxe e Tipo de Dados.dll
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\bin\Debug\net6.0\Sintaxe e Tipo de Dados.pdb
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.dll
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\refint\Sintaxe e Tipo de Dados.dll
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.pdb
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\Sintaxe e Tipo de Dados.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\Sintaxe e Tipo de Dados\obj\Debug\net6.0\ref\Sintaxe e Tipo de Dados.dll

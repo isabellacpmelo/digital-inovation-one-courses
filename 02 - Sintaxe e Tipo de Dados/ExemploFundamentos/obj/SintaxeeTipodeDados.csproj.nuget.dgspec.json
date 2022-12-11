@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\Sintaxe e Tipo de Dados.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeeTipodeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\Sintaxe e Tipo de Dados.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeeTipodeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\Sintaxe e Tipo de Dados.csproj",
-        "projectName": "Sintaxe e Tipo de Dados",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\Sintaxe e Tipo de Dados.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeeTipodeDados.csproj",
+        "projectName": "SintaxeeTipodeDados",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeeTipodeDados.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",

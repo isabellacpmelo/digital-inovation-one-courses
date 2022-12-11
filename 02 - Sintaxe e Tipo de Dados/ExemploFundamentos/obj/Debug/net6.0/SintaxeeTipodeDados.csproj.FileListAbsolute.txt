@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\bin\Debug\net6.0\SintaxeeTipodeDados.exe
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\bin\Debug\net6.0\SintaxeeTipodeDados.deps.json
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\bin\Debug\net6.0\SintaxeeTipodeDados.runtimeconfig.json
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\bin\Debug\net6.0\SintaxeeTipodeDados.dll
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\bin\Debug\net6.0\SintaxeeTipodeDados.pdb
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.dll
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\refint\SintaxeeTipodeDados.dll
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.pdb
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\SintaxeeTipodeDados.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Repositórios\digital-inovation-one-courses\02 - Sintaxe e Tipo de Dados\ExemploFundamentos\obj\Debug\net6.0\ref\SintaxeeTipodeDados.dll

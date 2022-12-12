@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "SintaxeeTipodeDados/1.0.0": {
+      "SintaxeETipodeDados/1.0.0": {
         "runtime": {
-          "SintaxeeTipodeDados.dll": {}
+          "SintaxeETipodeDados.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SintaxeeTipodeDados/1.0.0": {
+    "SintaxeETipodeDados/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

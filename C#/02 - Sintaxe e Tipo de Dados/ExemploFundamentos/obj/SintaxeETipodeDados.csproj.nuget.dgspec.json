@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
         "projectName": "SintaxeETipodeDados",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\02 - Sintaxe e Tipo de Dados\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

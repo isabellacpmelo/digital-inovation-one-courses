@@ -1,7 +1,7 @@
 ﻿using ExemploFundamentos.Models;
 
-DateTime dataAtual = DateTime.Now;
-Console.WriteLine(dataAtual);
+DateTime dataAtual = DateTime.Now.AddDays(5);
+Console.WriteLine(dataAtual.ToString("dd/MM/yy"));
 
 
 // string apresentacao = "Olá, seja bem vindo!";

@@ -1,9 +1,12 @@
 ﻿using ExemploFundamentos.Models;
 
-// int a = Convert.ToInt32("5");
-int a = int.Parse("5");
 
-Console.WriteLine(a);
+
+// Cast - Casting
+// int a = Convert.ToInt32("5"); //transforma null em zero.
+// int a = int.Parse("5"); //Não aceita valor nulo e dá erro.
+
+// Console.WriteLine(a);
 
 
 

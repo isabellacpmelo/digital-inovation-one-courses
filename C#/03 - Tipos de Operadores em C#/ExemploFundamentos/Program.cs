@@ -1,13 +1,21 @@
 ﻿using ExemploFundamentos.Models;
 
+string a = "15c";
+// int b = 0;
+int.TryParse(a, out int b);
+Console.WriteLine(b);
+
+// double a = 4 / (2 + 2);
+// Console.WriteLine(a);
+
+
 // int a = 5;
 // double b = a;
 
-int a = int.MaxValue;
-long b = a;
+// int a = int.MaxValue;
+// long b = a;
 
-Console.WriteLine(b);
-
+// Console.WriteLine(b);
 
 
 // int inteiro = 5 ;

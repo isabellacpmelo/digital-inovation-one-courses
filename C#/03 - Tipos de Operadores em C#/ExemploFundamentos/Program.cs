@@ -1,5 +1,19 @@
 ﻿using ExemploFundamentos.Models;
 
+// int a = 5;
+// double b = a;
+
+int a = int.MaxValue;
+long b = a;
+
+Console.WriteLine(b);
+
+
+
+// int inteiro = 5 ;
+// string a = inteiro.ToString();
+
+// Console.WriteLine(a);
 
 
 // Cast - Casting

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\02 - Operadores Condionais\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\02 - Operadores Condionais\\ExemploFundamentos\\SintaxeETipodeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\02 - Operadores Condionais\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
         "projectName": "SintaxeETipodeDados",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\02 - Operadores Condionais\\ExemploFundamentos\\SintaxeETipodeDados.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\Repositórios\\digital-inovation-one-courses\\C#\\03 - Tipos de Operadores em C#\\02 - Operadores Condionais\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
